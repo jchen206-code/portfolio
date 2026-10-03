@@ -23,7 +23,7 @@ window.PORTFOLIO_DATA = {
     name: "Jeffrey Chen",
 
     // Shown under your name, in the accent color.
-    title: "Full-Stack Developer · Computer Science Student",
+    title: "Full-Stack Developer · Finance & Computer Science Student",
 
     // Small line above your name. Leave "" to hide it.
     location: "Available for internships & new grad roles",
@@ -142,7 +142,7 @@ window.PORTFOLIO_DATA = {
   projects: [
     {
       name: "MenuMonkey",
-      year: "2025 – present",
+      year: "2026 – present",
       badge: "Featured",
       featured: true,
       summary: "A multi-tenant ordering and menu-management platform for restaurants.",
@@ -165,8 +165,8 @@ window.PORTFOLIO_DATA = {
     },
 
     {
-      name: "MenuMonkey Automation",
-      year: "2025",
+      name: "MenuMonkey Web-scraper",
+      year: "2026",
       badge: "",
       featured: false,
       summary: "A browser-automation framework packaged as a Tampermonkey userscript.",
@@ -182,28 +182,7 @@ window.PORTFOLIO_DATA = {
       codeUrl: "",
       demoUrl: "",
       linkNote: "Private repository — walkthrough available on request.",
-    },
-
-    {
-      /* NOTE: this third card is a draft based on your Java coursework.
-       * The assignment skeleton was instructor-provided and you filled in
-       * the core logic — the wording below says that honestly. Swap the
-       * whole card out if you'd rather showcase something else. */
-      name: "Solar Panel Grid Simulator",
-      year: "2024",
-      badge: "",
-      featured: false,
-      summary: "An object-oriented Java simulation of a city solar-panel installation.",
-      description:
-        "Coursework project where I implemented the core simulation classes for a " +
-        "grid of rooftop and parking-lot solar panels: a 2D street map, per-panel " +
-        "rated vs. actual efficiency, randomized failure and degradation over time, " +
-        "and aggregate electricity output across the grid. Rendered with an animated " +
-        "StdDraw visualization driver on top of the model classes.",
-      tags: ["Java", "OOP", "2D arrays", "Simulation", "StdDraw"],
-      codeUrl: "",
-      demoUrl: "",
-      linkNote: "Coursework — source available on request.",
+      
     },
   ],
 
