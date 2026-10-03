@@ -160,7 +160,7 @@ window.PORTFOLIO_DATA = {
       ],
       // TODO: add your repo / live URLs here.
       codeUrl: "",
-      demoUrl: "",
+      demoUrl: "https://www.menumonkey.app/",
       linkNote: "Private repository — walkthrough available on request.",
     },
 
@@ -180,7 +180,7 @@ window.PORTFOLIO_DATA = {
         "HTML fixture.",
       tags: ["JavaScript", "DOM APIs", "Tampermonkey", "Browser automation", "Testing"],
       codeUrl: "",
-      demoUrl: "https://www.menumonkey.app/",
+      demoUrl: "",
       linkNote: "Private repository — walkthrough available on request.",
       
     },
