@@ -180,7 +180,7 @@ window.PORTFOLIO_DATA = {
         "HTML fixture.",
       tags: ["JavaScript", "DOM APIs", "Tampermonkey", "Browser automation", "Testing"],
       codeUrl: "",
-      demoUrl: "",
+      demoUrl: "https://www.menumonkey.app/",
       linkNote: "Private repository — walkthrough available on request.",
       
     },
